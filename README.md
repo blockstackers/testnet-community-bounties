@@ -10,11 +10,11 @@ Bounties will be awarded to those who exemplify excellence in community building
 - All bounties are listed as issues in this repository.
 
 ## FAQ
-**How much are the prizes for community bounties?**
+**How much are the prizes for community bounties?**  
 Participants can win Blockstack swag and up to $750 for various community bounties.
 
-**How do I submit my community bounties?**
+**How do I submit my community bounties?**  
 Each bounty is listed as an issue in this repo. Criteria for each bounty may vary, but for most bounties, you can sipmply post a link to your submission in the comments under each issue. We recommend using certain open source platforms, but you may use whatever platform works best for you.
 
-**When is the deadline to submit my community bounties?**
+**When is the deadline to submit my community bounties?**  
 The deadline to submit *most* community bounties will be at the end of phase 4 (Xenon). Some community bounties, such as documentation translation, will have an earlier deadline. Please double check the criteria for all bounties before you sending your submissions.

@@ -4,7 +4,7 @@ In addition to surfacing critical bugs and features in preparation for the launc
 Bounties will be awarded to those who exemplify excellence in community building by making the testnet more accessible to other community members. This may include translating documentation for members around the world, creating written/video testnet guides, or hosting virtual community meetups.
 
 ## How Community Bounties Work
-- New bounties will be released at the start of each testnet phase.
+- Community bounties are currently in a trial phase. Depending on the success of these bounties during phase 1, new bounties may be released at the start of phases 2 and 3.
 - All bounty winners will be selected during the final testnet phase, but participants are encouraged to submit bounties early since some bounties will have a deadline.
 - Participants must complete and at least 3 different activities to be eligible for any bounties.
 - All bounties are listed as issues in this repository.

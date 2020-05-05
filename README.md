@@ -1,7 +1,7 @@
 # Stacks 2.0 Testnet Community Bounties
 In addition to surfacing critical bugs and features in preparation for the launch of the Stacks 2.0 mainnet, the testnet is a tremendous opportunity for community members to experiment with writing Clarity smart contracts and try out Blockstack's breakthrough consensus mechanism, Proof of Transfer (PoX) (via activities like mining, stacking, and delegation). As such, it is important to cultivate a strong community that is excited to test out, poke at, and tinker with the testnet at every phase. 
 
-Bounties will be awarded to those who exemplify excellence in community building by making the testnet more accessible to other community members. This may include translating documentation for members around the world, creating written/video testnet guides, or hosting virtual community meetups.
+Bounties will be rewarded to those who exemplify excellence in community building by making the testnet more accessible to other community members. This may include translating documentation for members around the world, creating written/video testnet guides, or hosting virtual community meetups.
 
 ## How Community Bounties Work
 - Community bounties are currently in a trial phase. Depending on the success of these bounties during phase 1, new bounties may be released at the start of phases 2 and 3.

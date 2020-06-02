@@ -6,15 +6,15 @@ Bounty prizes will be rewarded to those who exemplify excellence in community bu
 ## How Community Bounties Work
 - Community bounties are currently in a trial phase. Depending on the success of these bounties during phase 1, new bounties may be released at the start of phases 2 and 3.
 - All bounty winners will be selected during the final testnet phase, but participants are encouraged to submit bounties early since some bounties will have a deadline.
-- Participants must complete and at least 3 different activities to be eligible for any bounties.
+- Participants must complete at least 3 different activities to be eligible for any bounties.
 - All bounties are listed as issues in this repository.
 
 ## FAQ
 **How much are the prizes for community bounties?**  
-Participants can win Blockstack swag and up to $750 for various community bounties.
+Participants can win Blockstack swag and up to $300 for various community bounties.
 
 **How do I submit my community bounties?**  
 Each bounty is listed as an issue in this repo. Criteria for each bounty may vary, but for most bounties, you can simply post a link to your submission in the comments under each issue. We recommend using certain open source platforms, but you may use whatever platform works best for you.
 
 **When is the deadline to submit my community bounties?**  
-The deadline to submit *most* community bounties will be at the end of phase 4 (Xenon). Some community bounties, such as documentation translation, will have earlier deadlines. Please double check the criteria for all bounties before sending in your submissions.
+The deadline to submit *most* community bounties will be at the end of phase 4 (Xenon). Some community bounties may have earlier deadlines. Please double check the criteria for all bounties before sending in your submissions.

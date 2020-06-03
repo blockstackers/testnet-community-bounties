@@ -20,5 +20,4 @@ Each bounty is listed as an issue in this repo. Criteria for each bounty may var
 The deadline to submit *most* community bounties will be at the end of phase 4 (Xenon). Some community bounties may have earlier deadlines. Please double check the criteria for all bounties before sending in your submissions.
 
 **Where can I go if I have other questions or need further support on community bounties?**
-
 The easiest way to get help is to join us in the [#stacks-2-testnet](https://discord.gg/em7fp7) channel on Discord. You can also send an email to [jenny@blockstack.com](jenny@blockstack.com).
